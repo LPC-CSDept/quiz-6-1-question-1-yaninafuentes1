@@ -15,5 +15,4 @@ int main() {
     cout << fixed << setprecision(2);
     cout << "Swapped floats: " << f1 << " " << f2 << endl;
     
-    return 0;
 }
